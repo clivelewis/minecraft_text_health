@@ -1,0 +1,4 @@
+enabled: true
+boldText: false
+prefix: "HP: "
+maxHearths: 10
